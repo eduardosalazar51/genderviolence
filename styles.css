@@ -31,30 +31,30 @@ align-content: center;
  }
   
 p {
-    font-family: 'sans-serif;';
+    font-family: 'Helvetica;';
     font-size: 16px;
     }
 
 b {
-        font-family: 'sans-serif;';
+        font-family: 'Helvetica;';
         font-size: 20px;
         color: 052C37;
     }
 
 h1 {
-    font-family: 'sans-serif;';
-    color:052C37;
+    font-family: 'Helvetica;';
+    color:#052c37;
     font-size: 36px;
     }
 
 h2 {
-    font-family: 'sans-serif;';
+    font-family: 'Helvetica;';
     color:1D677C;
     font-size: 20px;
     }
 
 h3 {
-    font-family: 'sans-serif;';
+    font-family: 'Helvetica;';
     color:1D677C;
     font-size: 16px;
     }
